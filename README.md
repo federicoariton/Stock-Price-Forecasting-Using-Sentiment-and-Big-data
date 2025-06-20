@@ -2,6 +2,22 @@
 
 This project presents an end-to-end solution for forecasting short-term stock prices using a hybrid approach that combines traditional statistical models (ARIMAX, SARIMAX) and deep learning models (LSTM, GRU). The system integrates Twitter-based sentiment analysis with historical market data, processed via a scalable big data architecture, and visualized through an interactive dashboard.
 
+
+
+---
+
+## 📄 Read the Report
+
+📘 [Click here to read the full project report (PDF)](https://github.com/federicoariton/Stock-Price-Forecasting-Using-Sentiment-and-Big-data/blob/main/Stock%20Price%20Forecasting%20Using%20Sentiment%20and%20Big%20Data%20Report.pdf)
+
+---
+
+## 🎥 Screencast
+
+🎬 [Click here to watch the screencast](https://drive.google.com/file/d/1W0PwKvb8Q5WVECTe9OqUM3wGwuYp2tKf/view?usp=sharing)
+
+
+
 ## 📌 Overview
 
 - **Forecasting Targets**: 1, 3, and 7-day stock price predictions
