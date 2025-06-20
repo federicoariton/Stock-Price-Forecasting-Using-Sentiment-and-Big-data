@@ -97,7 +97,7 @@ Customize via:
 - Forecast horizon (1, 3, 7 days)
 
 
-![dashboard_instructions](https://github.com/user-attachments/assets/46e79863-3bd7-452f-9f94-35e411945d97)
+![dashboard_instructions](https://github.com/user-attachments/assets/ecb24a9d-04cd-4eec-90fe-b26d25f4b1a8)
 
 
 ---
